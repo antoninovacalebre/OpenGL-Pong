@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\antonino\documents\_docs\projects\pong\pong\game.cpp(160): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antonino\documents\_docs\projects\pong\pong\game.cpp(181): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  pong.vcxproj -> C:\Users\Antonino\Documents\_Docs\Projects\pong\Debug\pong.exe
